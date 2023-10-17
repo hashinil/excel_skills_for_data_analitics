@@ -16,7 +16,7 @@
 
 - [x] [Charts](https://github.com/hashinil/excel_data_analitics/blob/main/Charts.xlsx)
 
-- [x] [Data Cleaning](https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe/input)
+- [x] [Data Cleaning](https://github.com/hashinil/excel_data_analitics/blob/main/Data%20Cleaning.xlsx)
    - Remove Duplicates
    - Converted names to 'Aaaa Bbbb' format in column **president > president-Fixed**  using PROPER()
    - Add filter and replace some values in the column **party**
